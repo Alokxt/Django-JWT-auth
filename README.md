@@ -27,7 +27,7 @@ python manage.py makemigrations.
 python manage.py migrate.
 
 **POSTMAN COLLECTION OF API's**
-i've included the .json file of postman api collection with responses. here you can find it - 
+i've included the .json file of postman api collection with responses. here you can find it - https://github.com/Alokxt/Django-JWT-auth/blob/main/Backendapitests.postman_collection%20(2).json
 
 **Technologies Used**
 Django 
