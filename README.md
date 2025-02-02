@@ -12,7 +12,7 @@ Higher authorities(Schools in this project) has an admin-level control on studen
 
  ## Installation
  **Clone the repository**:
-  git clone 
+  git clone https://github.com/Alokxt/Django-JWT-auth.git.
 **create a virtual env**
 python -m venv venv
 source venv/bin/activate   # For Linux/macOS
